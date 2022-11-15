@@ -1,0 +1,62 @@
+[
+
+{
+    "title" : "JS Projects",
+    "image" : "link",
+    "imagelink" : "https://vidhya-arun.github.io/JSPrograms/index.html",
+    "language" : "Javascript",
+    "code":"https://github.com/vidhya-Arun/JSPrograms"
+},
+{
+    "title" : "2048 Game",
+    "image" : "./images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/2048/",
+    "language" : "Javascript",
+    "code" : "https://github.com/vidhya-Arun/2048"
+},
+{
+    "title" : "Styles Conference ",
+    "image" : "./images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/StylesProject/",
+    "language" : "HTML, CSS",
+    "code": "https://github.com/vidhya-Arun/StylesProject"
+},
+{
+    "title" : "Travel Time ",
+    "image" : "./images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/TravelTime/",
+    "language" : "HTML, CSSS ",
+    "code":"https://github.com/vidhya-Arun/TravelTime"
+},
+{
+    "title" : "Travel Time using Tailwind",
+    "image" : "./images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/TravelTime/indexTW.html",
+    "language" : "HTML, CSS, tailwind ",
+    "code":"https://github.com/vidhya-Arun/TravelTime"
+},
+{
+    "title" : "Patnat Figma design using Tailwind",
+    "image" : "../images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/TailwindPatnat/",
+    "language" : "HTML, CSS, tailwind ",
+    "code":"https://github.com/vidhya-Arun/TailwindPatnat"
+},
+{
+    "title" : "React- Tic Tac Toe",
+    "image" : "../images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/tictactoe-react-ts/",
+    "language" : "Typescript, React Js",
+    "code": "https://github.com/vidhya-Arun/tictactoe-react-ts"
+},
+{
+    "title" : "React- Todo app",
+    "image" : "./images/2048.png",
+    "imagelink" : "https://vidhya-arun.github.io/todo-app/",
+    "language" : "Typescript, React Js",
+    "code": "https://github.com/vidhya-Arun/todo-app"
+}
+
+
+
+]
